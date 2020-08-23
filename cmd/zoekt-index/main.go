@@ -24,8 +24,8 @@ import (
 	"runtime/pprof"
 	"strings"
 
-	"github.com/google/zoekt"
-	"github.com/google/zoekt/build"
+	"github.com/poweif/zoekt"
+	"github.com/poweif/zoekt/build"
 )
 
 type fileInfo struct {

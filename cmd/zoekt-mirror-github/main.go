@@ -33,7 +33,7 @@ import (
 	"github.com/google/go-github/github"
 	"golang.org/x/oauth2"
 
-	"github.com/google/zoekt/gitindex"
+	"github.com/poweif/zoekt/gitindex"
 )
 
 func main() {

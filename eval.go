@@ -23,7 +23,7 @@ import (
 
 	"golang.org/x/net/trace"
 
-	"github.com/google/zoekt/query"
+	"github.com/poweif/zoekt/query"
 )
 
 const maxUInt16 = 0xffff

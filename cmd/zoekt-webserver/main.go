@@ -31,10 +31,10 @@ import (
 
 	"golang.org/x/net/trace"
 
-	"github.com/google/zoekt"
-	"github.com/google/zoekt/build"
-	"github.com/google/zoekt/shards"
-	"github.com/google/zoekt/web"
+	"github.com/poweif/zoekt"
+	"github.com/poweif/zoekt/build"
+	"github.com/poweif/zoekt/shards"
+	"github.com/poweif/zoekt/web"
 )
 
 const logFormat = "2006-01-02T15-04-05.999999999Z07"

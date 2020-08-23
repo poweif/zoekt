@@ -30,8 +30,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/google/zoekt"
-	"github.com/google/zoekt/build"
+	"github.com/poweif/zoekt"
+	"github.com/poweif/zoekt/build"
 
 	"gopkg.in/src-d/go-git.v4/config"
 	"gopkg.in/src-d/go-git.v4/plumbing"

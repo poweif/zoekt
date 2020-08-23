@@ -1,4 +1,6 @@
-module github.com/google/zoekt
+module github.com/poweif/zoekt
+
+go 1.14
 
 require (
 	github.com/andygrunwald/go-gerrit v0.0.0-20181026193842-43cfd7a94eb4

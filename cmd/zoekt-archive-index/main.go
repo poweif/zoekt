@@ -18,9 +18,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/google/zoekt"
-	"github.com/google/zoekt/build"
-	"github.com/google/zoekt/gitindex"
+	"github.com/poweif/zoekt"
+	"github.com/poweif/zoekt/build"
+	"github.com/poweif/zoekt/gitindex"
 )
 
 // stripComponents removes the specified number of leading path

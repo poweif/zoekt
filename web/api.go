@@ -17,7 +17,7 @@ package web
 import (
 	"time"
 
-	"github.com/google/zoekt"
+	"github.com/poweif/zoekt"
 )
 
 type LastInput struct {

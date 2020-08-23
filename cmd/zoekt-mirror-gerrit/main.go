@@ -28,7 +28,7 @@ import (
 	"strings"
 
 	gerrit "github.com/andygrunwald/go-gerrit"
-	"github.com/google/zoekt/gitindex"
+	"github.com/poweif/zoekt/gitindex"
 )
 
 type loggingRT struct {

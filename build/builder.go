@@ -33,8 +33,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/google/zoekt"
-	"github.com/google/zoekt/ctags"
+	"github.com/poweif/zoekt"
+	"github.com/poweif/zoekt/ctags"
 )
 
 var DefaultDir = filepath.Join(os.Getenv("HOME"), ".zoekt")

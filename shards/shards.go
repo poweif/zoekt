@@ -27,8 +27,8 @@ import (
 	"golang.org/x/net/trace"
 	"golang.org/x/sync/semaphore"
 
-	"github.com/google/zoekt"
-	"github.com/google/zoekt/query"
+	"github.com/poweif/zoekt"
+	"github.com/poweif/zoekt/query"
 )
 
 type rankedShard struct {

@@ -33,7 +33,7 @@ import (
 
 	"github.com/gfleury/go-bitbucket-v1"
 
-	"github.com/google/zoekt/gitindex"
+	"github.com/poweif/zoekt/gitindex"
 )
 
 func main() {
